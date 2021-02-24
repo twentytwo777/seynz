@@ -1,0 +1,155 @@
+* {
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+  }
+  
+  body {
+	color: #ffffff;
+	background-color: #000000;
+  }
+  
+  body,
+  a,
+  a:link {
+	cursor: url(cur/2.cur), default;
+  }
+  
+  a:hover {
+	cursor: url(cur/3.cur), wait;
+  }
+  
+  a,
+  a:link,
+  header {
+	color: #ffffff;
+  }
+  
+  .center {
+	text-align: center;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+  }
+  
+  .p4use {
+	position: left;
+  }
+  
+  #effect {
+	font-family: Courier New, monospace;
+	height: 26px;
+	line-height: 30px;
+	color: #0c0;
+  }  
+
+.is_overlay {
+	display: block;
+	width: 100%;
+	height: 99%;
+	justify-content: center;
+	align-items: center;
+  }
+  
+  #trailer {
+	display: flex;
+	position: fixed;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+  }
+  
+  #trailer > video {
+	background-size: cover;
+	object-fit: cover;
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0.25;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+  }
+
+  @media (max-width:50em) {
+	a {
+		font-size: 25px;
+	}
+}
+
+
+  
+  /* Адаптация для Phone/... */
+  @media screen (max-width: 768px) {
+	#trailer {
+	  position: fixed;
+	  justify-content: center;
+	  align-items: center;
+	  overflow: hidden;
+	  border-radius: 5px;
+	  border: none;
+	}
+
+}
+  @media screen and (max-width: 414px) {
+	  #trailer {
+      position: fixed;
+	  justify-content: center;
+	  align-items: center;
+	  overflow: hidden;
+	  border-radius: 5px;
+	  border: none;
+	}
+  
+	#trailer > video {
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  width: 100%;
+	  height: 100%;
+	  object-fit: cover;
+	  justify-content: center;
+	  align-items: center;
+	  position: absolute;
+	}
+  }
+
+  @media screen and (max-width: 375px) {
+	  #trailer > video {
+	  justify-content: center;
+	  align-items: center;
+	  position: absolute;
+	}
+}
+  @media screen and (max-width: 320px) {
+	  #trailer > video {
+	  justify-content: center;
+	  align-items: center;
+	  position: absolute;
+	  visibility: none;
+	  .Social {
+	  font-size: 15px;
+	  color: white;
+	  font-family: 'Graduate', cursive;
+	  text-decoration: none;
+	  -webkit-transition: all 0.3s ease;
+	  ;
+	-moz-transition: all 0.3s ease;
+	  ;
+	-o-transition: all 0.3s ease;
+	  ;
+	transition: all 0.3s ease;
+	}
+
+}
+
+#main {
+	height: 60vh;
+	z-index: 9999;
+  }
