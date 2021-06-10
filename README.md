@@ -9,7 +9,7 @@
   <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img title="Git" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1614192556~hmac=b7766daf5acea9a1321c6bd6146af420"></code>
-  <code><img title="GitHub" height="25" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.ru%2Ficon%2F44900%2Fgithub&psig=AOvVaw1SZpazocueJGaK1SXnux-o&ust=1623407037768000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDrn9HsjPECFQAAAAAdAAAAABAD"></code>
+  <code><img title="GitHub" height="25" src="https://i.imgur.com/7JHWCh0.png"></code>
   <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
   <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 </p>
