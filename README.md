@@ -3,15 +3,15 @@
 <h2 align="center">Языки & Библиотеки & Инстурменты & Другое</h2>
 
 <p align="center">
-  <code><img title="Lua" height="25" src="https://www.flaticon.com/svg/vstatic/svg/29/29488.svg?token=exp=1614192506~hmac=5520ff399b685d298c173ae028d4c903"></code>
-  <code><img title="Javascript" height="25" src="https://www.flaticon.com/svg/vstatic/svg/2721/2721272.svg?token=exp=1614192484~hmac=6cee4664b738966847d27291c773bf87"></code>
-  <code><img title="HTML5" height="25" src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1614192466~hmac=a5ee15e65fa2d77cb6beee9bfb67189f"></code>
-  <code><img title="CSS" height="25" src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1614192442~hmac=bea6e4f5b75e21fee73bcf88848c3bad"></code>
-  <code><img title="Git" height="25" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111288.svg?token=exp=1614192536~hmac=1ab52e16ff4e33c24dfc823360e1c93d"></code>
+  <code><img title="Lua" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+  <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img title="Git" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://www.flaticon.com/svg/vstatic/svg/906/906324.svg?token=exp=1614192556~hmac=b7766daf5acea9a1321c6bd6146af420"></code>
   <code><img title="GitHub" height="25" src="https://www.flaticon.com/svg/vstatic/svg/733/733553.svg?token=exp=1614192573~hmac=bbde5c785b9b3bc771d17d2d546e3249"></code>
-  <code><img title="MySQL" height="25" src="https://www.flaticon.com/svg/vstatic/svg/1199/1199128.svg?token=exp=1614192590~hmac=0edbd8148e1686dba8737f72dad7ea0b"></code>
-  <code><img title="PHP" height="25" src="https://www.flaticon.com/svg/vstatic/svg/919/919830.svg?token=exp=1614192605~hmac=1adfaeea1e94c61b7b9505bd0256294e"></code>
+  <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 </p>
 
 <br>
